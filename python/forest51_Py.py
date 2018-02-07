@@ -54,7 +54,7 @@ Y=labelencoder_Y.fit_transform(Y)
 from sklearn.cross_validation import train_test_split
 X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size = 0.2, random_state = 0)
 
-#feature scaling allows to put different range of data into same scale like age and salary
+'''feature scaling allows to put different range of data into same scale like age and salary'''
 #feature scaling
 from sklearn.preprocessing import StandardScaler
 sc_X = StandardScaler()
