@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 29 12:19:10 2018
 
-@author: asd
-"""
 #Importing Library
 import scipy.stats
 import numpy as np
