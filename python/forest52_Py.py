@@ -31,7 +31,7 @@ X_train = sc_X.fit_transform(X_train)
 X_test = sc_X.transform(X_test)"""
 
 
-#I got an error ValueError: Expected 2D array, got 1D array instead
+I got an error ValueError: Expected 2D array, got 1D array instead
 """this folloing code will change your 1D array to 2d array as show invariable explorer 
 name Size"""
 """
